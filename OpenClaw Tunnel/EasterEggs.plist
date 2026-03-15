@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Jokes</key>
+    <array>
+        <string>成年人的生活里没有容易二字，除了容易胖和容易穷。</string>
+        <string>所谓的听懂了，通常是我不打算再问了的代名词。</string>
+        <string>屏幕越来越亮，眼神越来越暗。</string>
+        <string>甲方是上帝，但上帝也得按合同办事。</string>
+        <string>这个世界不仅看你的脸，还要看你的脸皮。</string>
+        <string>所谓战略，就是把没做成的事说成是故意不做的。</string>
+        <string>人工智能：在它能干活之前，先让它学会道歉。</string>
+        <string>算法比我妈更懂我今天想吃什么。</string>
+        <string>以前是不疯魔不成活，现在是不发疯难活命。</string>
+        <string>只要躺得够平，资本的镰刀就割不到我。</string>
+        <string>所有的捷径，最终都会变成最远的路。</string>
+        <string>在这个快节奏的社会，慢下来本身就是一种反抗。</string>
+        <string>财富自由，指的是买充电宝不看价格。</string>
+        <string>不要在深夜做任何决定，除了睡觉。</string>
+        <string>有些人二十岁就死了，八十岁才埋。</string>
+        <string>所谓情商高，其实就是虚伪得恰到好处。</string>
+        <string>世界这么大，我得去看看；钱包这么小，哪儿也去不了。</string>
+        <string>所有的离别，都是蓄谋已久。</string>
+        <string>所有的相遇，都是久别重逢。</string>
+        <string>现在的理财就像盲盒，拆开全是惊吓。</string>
+        <string>社交的本质不是交换名片，而是交换情绪。</string>
+        <string>很多人的努力，其实只是在用体力上的勤奋掩盖脑力上的懒惰。</string>
+        <string>生活就是一场大型的服从性测试。</string>
+        <string>如果生活欺骗了你，说明你的防诈意识有待提高。</string>
+        <string>代码是写给机器看的，更是写给下一个接锅侠看的。</string>
+        <string>所谓的交付，就是让客户相信奇迹发生了。</string>
+        <string>降本增效：降的是成本，增的是我的焦虑。</string>
+        <string>所谓稳定，指的是在领导视察时不出事。</string>
+        <string>Bug 是无法消灭的，只能被更高级的 Bug 覆盖。</string>
+        <string>在这个充满算法的世界，我更喜欢具体的温情。</string>
+        <string>我脑子里的水可以养鱼，心里的醋能蘸饺子。</string>
+        <string>努力不一定会成功，但不努力一定会很舒服。</string>
+        <string>我的生活现状：间歇性豪情万丈，持续性混吃等死。</string>
+        <string>只要我不尴尬，尴尬的就是别人。</string>
+        <string>我不是在加班，就是在去加班的救护车上。</string>
+        <string>所谓的顺其自然，其实是无能为力的委婉说法。</string>
+        <string>我唯一的运动就是——给手机充电。</string>
+        <string>技术债务：只要我离职够快，债就追不上我。</string>
+        <string>所谓架构，就是把今天能解决的问题留到明天去重构。</string>
+        <string>老板谈愿景，员工谈周五。</string>
+        <string>开会的本质：一群没主意的人听一个有主意的人胡说八道。</string>
+        <string>极简主义最大的障碍不是杂物，而是贪念。</string>
+        <string>小规模荡气回肠，就是我们普通人能追求的最高浪漫。</string>
+        <string>我们的隐私，正在换取所谓的便捷。</string>
+        <string>所谓的成功学，就是让一群失败者相信自己能教别人成功。</string>
+        <string>情绪价值正在成为最昂贵的奢侈品。</string>
+        <string>所有的流行语，本质上都是一种语言的磨损。</string>
+        <string>如果你感到不自由，那是因为你对世界还有所求。</string>
+        <string>数字遗民：在这个飞速发展的时代，还记得 2G 的人。</string>
+        <string>已读不回：赛博时代的终极冷战。</string>
+        <string>朋友圈三天可见：一种名为自我保护的撤退。</string>
+        <string>表情包：为了掩饰词穷而发明的武器。</string>
+        <string>正在输入：赛博世界最紧张的等待。</string>
+        <string>焦虑：手机电量低于 20%，且没带充电宝。</string>
+        <string>程序员节：唯一一个不放假的节日。</string>
+        <string>内推：把你的朋友也带进这个火坑。</string>
+        <string>咖啡因：程序员的血液。</string>
+        <string>财务报表：赛博世界的玄学。</string>
+        <string>牛市：大家都觉得自己是天才的时刻。</string>
+        <string>熊市：大家都觉得自己是蠢货的时刻。</string>
+        <string>韭菜：割不完，根本割不完。</string>
+        <string>阶级跃迁：指从报错 500 变成 200 OK。</string>
+        <string>人生目标：赚够买下一台 H100 的钱。</string>
+        <string>即使在这个数字时代，也要保留一点手工的浪漫。</string>
+        <string>正在连接北京金融中心，空气中弥漫着金钱的味道。</string>
+        <string>由于连接太稳，运维工程师已开始数粒子。</string>
+        <string>数据正通过时空裂缝，请保持优雅。</string>
+        <string>别看我小，我能装下整个部门的流量。</string>
+        <string>私有化部署：把安全感锁进自己的保险柜。</string>
+        <string>五九可靠性：为了那 0.001% 的执念。</string>
+        <string>数据不出省，安全记心中。</string>
+        <string>正在加密传输金融绝密（其实是昨天的报销单）。</string>
+        <string>在这个喧嚣的世界，SSH 隧道是我最后的净土。</string>
+        <string>所谓战略：就是把没做成的事说成是故意不做的。</string>
+        <string>赋能：一种高端的甩锅话术。</string>
+        <string>闭环逻辑：只要我不承认我错了，逻辑就是圆的。</string>
+        <string>底层逻辑：一种让你听起来很像专家的万能开头。</string>
+        <string>信息不对称：指我拿到了 token，而你却在报错。</string>
+        <string>防火墙：防止黑客进入，也防止运维人员早点下班。</string>
+        <string>SSH 隧道：赛博世界里的暗度陈仓。</string>
+        <string>鉴权：一场关于我是谁的哲学拷问。</string>
+        <string>连接超时：这不仅仅是网络问题，这是命运的拒绝。</string>
+        <string>正在同步心跳，你的 Gateway 还活着。</string>
+        <string>全栈工程师：什么都会一点，但什么都搞不定。</string>
+        <string>系统重构：一场代价昂贵的整容手术。</string>
+        <string>监控大屏：用来掩盖系统内部混乱的精美壁纸。</string>
+        <string>高可用性：一种建立在备胎之上的虚假安全感。</string>
+        <string>代码评审：一场礼貌且克制的公开处刑。</string>
+        <string>性能调优：在垃圾堆里寻找金子的过程。</string>
+        <string>容灾：在世界末日时，也要保住这条数据库连接。</string>
+        <string>网络分区：赛博世界里的柏林墙。</string>
+        <string>负载均衡：雨露均沾，大家一起崩溃。</string>
+        <string>自研引擎：一种为了不交授权费而进行的冒险。</string>
+        <string>路演：一场关于“如果我有钱，我能变魔法”的表演。</string>
+        <string>灰度发布：找一撮倒霉蛋先试试。</string>
+        <string>心跳检测：赛博世界的我思故我在。</string>
+        <string>系统上线：程序员的成人礼。</string>
+        <string>缓存击穿：当真相直接撞击你的钱包。</string>
+        <string>异步处理：等我有空了再说。</string>
+        <string>垃圾回收：程序员不需要做家务的唯一理由。</string>
+        <string>死循环：人生总是在同一个地方跌倒两次。</string>
+        <string>初始化：回归原始，重新做人。</string>
+        <string>模型训练：让机器学会人类的傲慢与偏见。</string>
+        <string>幻觉：AI 偶尔展现的诗人气质。</string>
+        <string>算力瓶颈：钱买不到的，除了真爱，还有 H100。</string>
+        <string>数字孪生：在虚拟世界里再造一个受苦的自己。</string>
+        <string>边缘计算：在悬崖边上处理数据。</string>
+        <string>冷启动：冬天的早晨，我和服务器一样不想起床。</string>
+        <string>链路追踪：寻找是谁在背后偷偷改了我的代码。</string>
+        <string>回滚：时间旅行的唯一平替方案。</string>
+        <string>停机维护：给服务器放个寒假。</string>
+        <string>序列化：把复杂的灵魂压扁成一行文字。</string>
+        <string>解析器：专门负责吹毛求疵的模块。</string>
+        <string>静态检查：在灾难发生前，先泼一盆冷水。</string>
+        <string>镜像：赛博世界的克隆人。</string>
+        <string>反内卷：只要我跑得快，卷就追不上我。</string>
+        <string>裂变：一个忽悠两个，两个忽悠四个。</string>
+        <string>爆款：概率学里的一场意外。</string>
+        <string>获客成本：买下一个用户灵魂的价格。</string>
+        <string>终身价值：直到把你榨干为止。</string>
+        <string>赛道：一种只要进去了就很难掉头的游戏。</string>
+        <string>分组可见：赛博世界的精致虚伪。</string>
+        <string>扫一扫：通往另一个世界的唯一门票。</string>
+        <string>点赞：赛博世界的朕知道了。</string>
+        <string>撤回消息：试图挽回尊严的最后挣扎。</string>
+        <string>社交牛杂症：一半牛逼，一半杂乱。</string>
+        <string>孤独：一个人的时候，手机还没电了。</string>
+        <string>消费降级：从喝咖啡变成喝白开水。</string>
+        <string>职业病：看代码比看美女还认真。</string>
+        <string>弹性工时：弹出去就没回来。</string>
+        <string>工位装饰：在监狱里摆上几盆花。</string>
+        <string>深夜食堂：加班后的那碗泡面。</string>
+        <string>极简生活：指因为没钱，买不起多余的东西。</string>
+        <string>熔断：大家都停下来喘口气的瞬间。</string>
+        <string>平仓：割肉离场，重新做人。</string>
+        <string>杠杆：让你的倾家荡产速度翻倍的技术。</string>
+        <string>韭菜：割不完，根本割不完。</string>
+        <string>黑天鹅：一场意料之外的资产清零。</string>
+        <string>灰犀牛：一种你明明看见了但躲不开的灾难。</string>
+        <string>北京 01 节点：金钱永不眠，但运维得睡觉。</string>
+        <string>正在同步 KPI：这一行数据价值百万。</string>
+        <string>隧道已打通：跨越山海去见你（的数据）。</string>
+        <string>甲方说要高端大气：其实他也不知道要什么。</string>
+        <string>由于隧道太快：数据产生了时差感。</string>
+        <string>数据正经过量子加密：连薛定谔的猫都偷不走。</string>
+        <string>正在模拟老板的微笑：欢迎登录 WebUI。</string>
+        <string>所谓交付：就是在 Bug 爆发前拿到确认函。</string>
+        <string>金融级加密：只有你和云服务商知道你在摸鱼。</string>
+        <string>正在连接生产环境：请系好安全带。</string>
+        <string>运维准则：别问，问就是防火墙没开。</string>
+        <string>所谓自由：就是买得起最贵的算力。</string>
+        <string>世界很复杂：但 SSH 隧道很简单。</string>
+        <string>正在下发 openclaw dashboard 命令：请保持优雅。</string>
+        <string>正在同步活跃链接：这里承载着客户的期待。</string>
+        <string>数据已到达：正在进行最后的鉴权握手。</string>
+        <string>正在抓取令牌：就像从巨龙巢穴偷金币。</string>
+        <string>鉴权成功：欢迎进入赛博核心。</string>
+        <string>PPT 里的架构：和现实唯一的联系是名字一样。</string>
+        <string>所谓赋能：就是让你多干活的体面说法。</string>
+        <string>闭环逻辑：只要结论是对的，过程可以全是 Bug。</string>
+        <string>底层代码：就像地基下的废纸壳，别看，别动。</string>
+        <string>运维的真谛：在重启中寻找永生。</string>
+        <string>服务器告警：程序员的闹钟。</string>
+        <string>数据回滚：赛博世界唯一的后悔药。</string>
+        <string>所谓并发：就是一群人同时想进一扇窄门。</string>
+        <string>分布式一致性：赛博世界的民主化难题。</string>
+        <string>高并发测试：服务器的极限运动。</string>
+        <string>自动化脚本：程序员送给自己的假期。</string>
+        <string>代码注释：写给未来的道歉信。</string>
+        <string>性能调优：在废纸堆里找黄金。</string>
+        <string>热更：就像给飞行中的飞机换引擎。</string>
+        <string>容灾备份：程序员的最后一道防线。</string>
+        <string>负载均衡：雨露均沾，大家一起死。</string>
+        <string>中间件：承载着上下游的共同怨念。</string>
+        <string>开源社区：白嫖党的狂欢。</string>
+        <string>所谓交付：就是把垃圾包在金箔里送出去。</string>
+        <string>售前的艺术：把 10% 的功能吹出 100% 的效果。</string>
+        <string>技术支持：在线上环境进行微创手术。</string>
+        <string>正在监控数据流：看，那是金钱在跳动。</string>
+        <string>即使被困在工位：也要让灵魂在隧道里飞翔。</string>
+        <string>生活已经很苦了：就不要再往里面加班了。</string>
+        <string>所谓的听懂了：是我不打算再问了的委婉说法。</string>
+        <string>只要我不觉得尴尬：尴尬的就是别人。</string>
+        <string>现在的恋爱：开始于你好，结束于呵呵。</string>
+        <string>我的灵魂在远方：肉体在工位吃盒饭。</string>
+        <string>所谓的顺其自然：其实是无能为力。</string>
+        <string>我不是没钱：我只是在深度体验贫穷。</string>
+        <string>所谓的专家：就是把简单的事说得让你听不懂。</string>
+        <string>生活就像一场大型服从性测试：而你及格了。</string>
+        <string>只要努力：你一定能成为最好的工具。</string>
+        <string>这个社会不仅看脸：还要看你的脸皮厚度。</string>
+        <string>我唯一的运动：就是给手机充电。</string>
+        <string>我的抗压能力：只要没人看我，我能哭到明年。</string>
+        <string>所谓的成熟：就是把哭声调成了静音。</string>
+        <string>熬最深的夜：涂最贵的眼霜，买最贵的保险。</string>
+        <string>失败并不可怕：可怕的是你相信失败是成功之母。</string>
+        <string>穷人存钱养老：富人存钱买下养老院。</string>
+        <string>所有的离别：都是蓄谋已久。</string>
+        <string>算法正在替代自由意志：成为我们的主宰。</string>
+        <string>现代人的精神故乡：不在村庄，在手机屏幕里。</string>
+        <string>所谓的跨界：通常是因为原来的圈子混不下去了。</string>
+        <string>在自媒体时代：每个人都有 15 分钟成名的机会。</string>
+        <string>我们的沟通越来越便捷：心与心的距离却越来越远。</string>
+        <string>所谓的知识付费：有时候付的是缓解焦虑的智商税。</string>
+        <string>现在的电影：特效越来越真，故事越来越假。</string>
+        <string>我们在网上吵得不可开交：却不知道邻居叫什么。</string>
+        <string>极简主义最大的障碍：不是杂物，是贪念。</string>
+        <string>在快节奏社会：慢下来本身就是一种反抗。</string>
+        <string>所谓的斜杠青年：是为了生存不得不打好几份工。</string>
+        <string>大厂文化本质：高强度的服从性训练。</string>
+        <string>所谓的爆款：是对大众情绪的精准收割。</string>
+        <string>网红是贬义词：除非你加上顶流二字。</string>
+        <string>所谓人间清醒：是经历了人间疾苦后的无奈。</string>
+        <string>我们的眼界开阔了：包容度却降低了。</string>
+        <string>情绪价值：正在成为最昂贵的奢侈品。</string>
+        <string>所谓的个性：往往是工业化批量生产出来的。</string>
+        <string>现在的年轻人：不是不爱国，是更爱具体的细节。</string>
+        <string>所有的流行语：本质上都是一种语言的磨损。</string>
+        <string>小规模荡气回肠：就是普通人能追求的最高浪漫。</string>
+        <string>PPT 是硬通货：逻辑不够，动画来凑。</string>
+        <string>所谓架构：是把今天的问题留到明天重构。</string>
+        <string>老板谈愿景：员工谈周五下班。</string>
+        <string>理财像盲盒：拆开全是惊吓。</string>
+        <string>屏幕越来越亮：眼神越来越暗。</string>
+        <string>沟通往往是两个人在各自频道里呼喊：从未交汇。</string>
+        <string>互联网上真相不重要：情绪才是唯一的燃料。</string>
+        <string>生活是一地鸡毛：但我们要把它扎成漂亮的掸子。</string>
+        <string>摸鱼：是打工人的自我救赎。</string>
+        <string>开会的本质：听有主意的人胡说八道。</string>
+        <string>算法比我妈更懂我：这就是数字时代的悲哀。</string>
+        <string>所谓自由：就是有权对不想做的事说不。</string>
+        <string>世界很大：钱包很小。</string>
+        <string>崩溃往往从余额不足开始：而不是从痛苦开始。</string>
+        <string>社交本质：不是交换名片，是交换情绪。</string>
+        <string>努力：是用体力的勤奋掩盖脑力的懒惰。</string>
+        <string>人生像心电图：一帆风顺你就挂了。</string>
+        <string>贫穷限制想象力：也保护了购买欲。</string>
+        <string>孤独：是你有了满腔废话却找不到听众。</string>
+        <string>只要躺得够平：资本的镰刀就割不到我。</string>
+        <string>努力不一定成功：但不努力一定很舒服。</string>
+        <string>成熟：是把哭声调成静音。</string>
+        <string>熬夜涂眼霜：是对身体最后的体面。</string>
+        <string>顺其自然：是无能为力的委婉语。</string>
+        <string>主打一个随缘性努力：是年轻人的最后温柔。</string>
+        <string>沟通便捷：心却远了。</string>
+        <string>慢下来：是对这个时代的最后反抗。</string>
+        <string>情绪价值：当代最昂贵的奢侈品。</string>
+        <string>甲方是上帝：但上帝也得按合同办事。</string>
+        <string>所有的捷径：最终都会变成最远的路。</string>
+        <string>生活不只诗和远方：还有眼前的各种税和费。</string>
+        <string>深夜不做决定：除了睡觉。</string>
+        <string>有些人 20 岁死了：80 岁才埋。</string>
+        <string>极简主义障碍：是贪念。</string>
+        <string>所谓情商：是虚伪得恰到好处。</string>
+        <string>小规模荡气回肠：是普通人的最高浪漫。</string>
+        <string>数字化生存：是背着服务器流浪。</string>
+        <string>正在传输中：请保持优雅。</string>
+        <string>金融级安全：黑客看了都摇头。</string>
+        <string>甲方要高端大气：他也不知道自己要什么。</string>
+        <string>生活欺骗你：说明你防诈意识差。</string>
+        <string>隐私换便捷：赛博时代的魔鬼协议。</string>
+        <string>以前不疯不成活：现在不发疯难活命。</string>
+        <string>三大错觉：他喜欢我，手机响了，我可以瘦。</string>
+        <string>朋友圈里：藏着你想成为的那个假人。</string>
+        <string>跨界：是因为原来的圈子混不下去了。</string>
+        <string>成功学：失败者教别人成功。</string>
+        <string>效率高了：有效信息却少了。</string>
+        <string>大厂文化：高强度的服从性训练。</string>
+        <string>爆款：大众情绪的精准收割。</string>
+        <string>网红贬义：除非加上顶流二字。</string>
+        <string>人间清醒：人间疾苦后的无奈。</string>
+        <string>眼界开了：包容度却低了。</string>
+        <string>明白了，人只要改变你的当下，就可以改变你的过去。</string>
+        <string>总觉得大家最近常说的“爱你老己”应该是门学科，biology, psychology, anilogy</string>
+        <string>感到不自由：是因为你对世界还有所求。</string>
+        <string>人类的问题广义上有两种：饭还没吃饱，饭吃的太饱。</string>
+        <string>世界上没有任何一种性格能避免得罪人。</string>
+    </array>
+</dict>
+</plist>
