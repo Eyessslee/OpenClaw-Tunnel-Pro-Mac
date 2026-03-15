@@ -31,6 +31,15 @@ OpenClaw Tunnel Pro 🚀
 
 内存级隧道操作：Windows 版利用 Rust 的 ssh2 库在内存中直接建立隧道映射，显著降低了系统资源占用。
 
+💾 安装与运行说明
+
+下载安装包：从仓库右侧的 Releases 页面下载最新的 .dmg (macOS) 或 .exe (Windows) 文件。
+
+macOS 安全提示：由于应用未经过 Apple 开发者签名，初次打开时系统会提示“无法验证开发者”。
+
+解决办法：在“访达 (Finder)”中找到应用，右键点击并选择“打开”，在弹出的窗口中再次点击“打开”即可。
+
+
 📜 进化史 (Changelog)
 
 [v3.5.2]
@@ -45,43 +54,60 @@ OpenClaw Tunnel Pro 🚀
 
 接入官方 CLI 统计，实现实时 Token、Links、Reqs 监测；新增作者信息模块与 GIF 动画支持；适配 macOS 26.0+ 高级动效。
 
-[v3.0.0]
+[v1.0.0 - v3.0.0]
 
-确立极客视觉规范；全面接入系统级 Keychain 安全存储架构。
+完成基础 SSH 隧道建立、多节点持久化管理、确立“孔雀蓝”视觉规范及全面接入系统级加密存储。
 
-[v2.0.0]
+👨‍💻 关于作者 (About Author)
 
-支持多服务器节点持久化与快速切换；增加自动避让逻辑支持隧道并发开启。
+@Eyesslee
 
-[v1.0.0]
+开发这个工具的初衷是追求视觉美感与底层技术的平衡。希望它能帮你从繁琐的运维指令中解脱出来，让隧道管理和实例监控变得更加简单、直观。
 
-完成基于 /usr/bin/expect 与 /usr/bin/ssh 的非交互式隧道建立核心逻辑。
+⚖️ 免责声明 (Disclaimer)
+
+本项目及相关编译产物（App）仅供个人技术测试、交流与娱乐使用。
+
+请勿将本工具用于任何非法用途或生产环境。
+
+开发者不对因使用本工具导致的任何数据丢失、安全问题或系统故障承担法律责任。
+
+本项目遵循 MIT 开源协议。
 
 <h2 id="introduction-en">🇺🇸 English Introduction</h2>
 
 Hello! I’d like to share a small utility I’ve been working on: OpenClaw Tunnel Pro.
 
-I originally developed this tool to scratch my own itch—specifically the friction of constantly switching SSH tunnels and manually checking metrics while managing OpenClaw instances. My goal was to build a solution that combines a fluid, native app experience with robust, system-level security for server credentials. Now that the project has reached v3.5.2 and the core features have matured, I’m opening it up for anyone who might find it helpful in their workflow.
+I originally developed this tool to scratch my own itch—specifically the friction of constantly switching SSH tunnels and manually checking metrics while managing OpenClaw instances. My goal was to build a solution that combines a fluid, native app experience with robust, system-level security for server credentials. Now at v3.5.2, it’s stable enough for sharing with anyone in the community.
 
 🌟 Core Features
 
-Real-time Observability: Polls CLI commands directly through established SSH tunnels to capture and aggregate Token consumption (with 24h incremental filtering), active session counts, and total request volume.
+Real-time Observability: captures Token consumption (24h incremental), active session counts, and total request volume directly via SSH.
 
-Cryptographically Secure: All server addresses, usernames, and passwords are managed via macOS Keychain or system-native encrypted stores. No sensitive data is ever stored in plaintext configuration files.
+Cryptographically Secure: Credentials are managed via macOS Keychain or system-native encrypted stores. No plaintext configs are kept.
 
-Intelligent Lifecycle Management: Effortlessly switch between multiple node profiles with built-in port-collision avoidance. Features millisecond-level heartbeat monitoring to ensure seamless automatic reconnection during network fluctuations.
+Intelligent Lifecycle Management: Effortlessly switch between multiple node profiles with built-in port-collision avoidance and automatic reconnection.
 
-Native Aesthetic Experience: Designed with a platform-first mindset. The macOS version utilizes system-native physical effects and staggered entrance animations, while the Windows version embraces the Mica translucent material design.
+Native Aesthetic Experience: Designed with a platform-first mindset, supporting macOS physical effects and Windows Mica translucent design.
 
 🛠️ Technical Highlights
 
-Data Integrity via PTY Control: In the macOS client, I explicitly use the -T flag to disable remote PTY allocation. This prevents long JSON payloads from being truncated by the remote terminal's automatic line-wrapping (\r\n), ensuring 100% parsing accuracy.
+Data Integrity via PTY Control: Uses the -T flag in macOS to disable remote PTY, preventing JSON truncation by terminal auto-line-wrapping (\r\n).
 
-Environment-Aware Execution: Implemented support for absolute CLI paths (e.g., /root/.nvm/.../bin/openclaw). This circumvents errors in non-interactive SSH sessions where the global PATH is often unavailable.
+Environment-Aware Execution: Implemented support for absolute CLI paths to circumvent "command not found" errors in non-interactive SSH sessions.
 
-Optimized Asset Rendering: Switched to a native NSImageView engine on macOS to render GIF assets. This bypasses the strict WebKit sandbox restrictions on local file access and handles high-resolution asset scaling without display artifacts.
+Optimized Asset Rendering: Switched to a native NSImageView engine on macOS to bypass sandboxing restrictions on local GIF file access.
 
-Rust-Powered Tunneling: The Windows version leverages the ssh2 library to manage tunnel mappings directly in memory, resulting in a significantly lower system footprint compared to traditional subprocess-based tunneling.
+Rust-Powered Tunneling: The Windows version leverages the ssh2 library for high-efficiency, in-memory tunnel mapping.
+
+💾 Installation & Usage
+
+Download: Get the latest .dmg or .app from the Releases section.
+
+macOS Security: Since this app is not signed by a paid Apple developer account, you might see a "cannot be verified" warning.
+
+Fix: Right-click the app icon in Finder and select "Open", then confirm in the popup.
+
 
 📜 Changelog (EN)
 
@@ -91,24 +117,20 @@ Introduced the -T flag to disable remote PTY; Added official absolute path suppo
 
 [v3.5.1]
 
-Corrected UI alignment via Flexbox; Implemented a strict node state-reset on startup; Polished Windows input field aesthetics.
+Corrected UI alignment via Flexbox; Implemented a strict node state-reset on startup.
 
-[v3.5.0]
-
-Integrated official CLI-based monitoring; Introduced the redesigned author information card; Optimized for macOS 26.0+ advanced animations.
-
-[v3.0.0]
-
-Established geek-centric visual standards; Implemented full system-level Keychain secure storage.
-
-👨‍💻 关于作者 (About Author)
+👨‍💻 About Author
 
 @Eyesslee
 
-开发这个工具的初衷是追求视觉美感与底层技术的平衡。希望它能帮你从繁琐的运维指令中解脱出来，让隧道管理和实例监控变得更加简单、直观。
+I built this tool with the philosophy that professional dev-ops utilities don't have to be visually uninspiring. I hope it helps you stay focused on what matters by making tunnel management as frictionless as possible.
 
-I built this tool with the philosophy that professional dev-ops utilities don't have to be visually uninspiring. I hope it helps you stay focused on what matters by making SSH tunnel and instance management as frictionless as possible.
+⚖️ Disclaimer
 
-⚖️ License
+This project and its binaries are intended for personal testing, technical exchange, and entertainment purposes ONLY.
 
-本项目遵循 MIT 开源协议 (Licensed under the MIT License).
+Do not use this tool for any illegal activities or mission-critical production environments.
+
+The developer is not responsible for any data loss, security breaches, or system failures resulting from the use of this tool.
+
+Licensed under the MIT License.
